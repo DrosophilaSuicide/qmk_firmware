@@ -26,7 +26,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define POINTING_DEVICE_INVERT_Y
 
 #define SPLIT_USB_DETECT
-#define SPLIT_USB_TIMEOUT 2500
+//#define SPLIT_USB_TIMEOUT 2500
 
 // wiring of each half
 #define MATRIX_COL_PINS { B5, B4, E6, D7, C6, D4, F5}
